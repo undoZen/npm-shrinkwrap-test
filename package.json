@@ -1,0 +1,27 @@
+{
+  "name": "npm-shrinkwrap-test",
+  "version": "0.0.0",
+  "description": "npm-shrinkwrap-test ===================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/undoZen/npm-shrinkwrap-test.git"
+  },
+  "author": "undoZen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/undoZen/npm-shrinkwrap-test/issues"
+  },
+  "homepage": "https://github.com/undoZen/npm-shrinkwrap-test",
+  "devDependencies": {
+    "webpack": "^1.4.0-beta6",
+    "webpack-dev-server": "^1.6.4"
+  },
+  "dependencies": {
+    "ccc-ui": "^0.1.11",
+    "lodash": "^2.4.1"
+  }
+}
